@@ -8,4 +8,4 @@ Ahmet Tamer, Louis Watelle, Nicolas Orban Wirocco and Simon Langerock.
 - **Team repo (the project as handed in):** https://github.com/Wicoro/42-Transcendence
 - **My continued version, with my own changes, deployed online:** https://github.com/Simonization/web-transcendence — live at https://transcendence.langerock.xyz
 
-I did not mirror the team history here: it contains `.env` files committed by mistake in February 2026.
+The full team history lives in the team repo; it is not copied here.
